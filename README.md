@@ -20,4 +20,4 @@ Our roadmap includes additional modules that will seamlessly integrate into the 
 
 ---
 
-**Note:** For detailed information and documentation, please refer to the [OnederBiz Open-Suite Repository](https://github.com/onedercode/onederbiz-open-platform).
+**Note:** For detailed information and documentation, please refer to the [OnederBiz Website](https://ondederbiz.onedercode.com).
